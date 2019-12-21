@@ -1,4 +1,4 @@
-# crud-oo
+# Crud Básico 
 
 #Crud simples criado com HTML5, Bootstrap, PHP e JavaScript(jQuery). (Feito só para testes e aprendizado)
 
