@@ -9,3 +9,5 @@
 #idade varchar(100)
 #cidade varchar(100)
 
+Fiz esse CRUD básico para dar um help a galera novata (Tentei facilitar onde vi que tive dúvidas na época que precisei elaborar CRUDs).
+
